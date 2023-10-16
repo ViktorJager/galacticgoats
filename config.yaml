@@ -25,7 +25,7 @@ Params:
   showRelatedPosts: true
 Author:
   name: Mr.Goat
-  website: yourwebsite.com
+  # website: yourwebsite.com
   email: youremail@domain.com
   github: username
   # facebook: username
